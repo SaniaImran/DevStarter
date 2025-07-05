@@ -28,6 +28,7 @@
 <section class="testimonials">
   <h2>What Developers Say</h2>
   <p>"DevStarter saved me days of setup time. Clean, minimal, and ready to go." – A Happy Developer</p>
+  <p>"DevStarter saved me days of setup time. Clean, minimal, and ready to go." – A Happy Developer</p>
 </section>
 
 <section class="contact">
