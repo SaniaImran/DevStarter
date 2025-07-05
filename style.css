@@ -1,0 +1,65 @@
+/*
+Theme Name: DevStarter
+Theme URI: https://yourwebsite.com/devstarter
+Author: Sania Imran
+Author URI: https://yourwebsite.com
+Description: A minimal, developer-friendly custom WordPress theme built from scratch.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: devstarter
+Tags: clean, minimal, responsive, starter, custom-theme
+*/
+
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+}
+section {
+  padding: 80px 20px;
+  text-align: center;
+}
+.hero {
+  background: #111;
+  color: #fff;
+}
+button{
+  padding: 12px;
+  font-size: 16px;
+  color: #000;
+  backgroud-color: #fff;
+}
+.intro {
+  background: #fff;
+}
+.features {
+  background: #e0f7fa;
+}
+.about {
+  background: #fbe9e7;
+}
+.services {
+  background: #e8f5e9;
+}
+.testimonials {
+  background: #ede7f6;
+}
+.contact {
+  background: #fff3e0;
+}
+.footer-like {
+  background: #212121;
+  color: #fff;
+}
+h1, h2 {
+  margin-bottom: 20px;
+}
+p {
+  max-width: 700px;
+  margin: auto;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
