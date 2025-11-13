@@ -16,4 +16,4 @@ function devstarter_theme_setup() {
     ));
     add_theme_support('custom-logo');
 }
-add_action('after_setup_theme', 'devstarter_theme_setup');
+add_action('after_setup_themes', 'devstarter_theme_setup');
